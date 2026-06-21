@@ -1,2 +1,14 @@
 # huatihuievent-guide
-HTML page archive and documentation
+
+仓库页面索引说明
+
+这里集中保存独立页面文件，便于按仓库查看发布记录。
+
+## 文件记录
+
+- 根目录中的 HTML 文件为发布结果
+- README 用于说明当前仓库用途
+
+## 查看方式
+
+可以通过仓库文件列表或 GitHub Pages 查看已发布页面。
